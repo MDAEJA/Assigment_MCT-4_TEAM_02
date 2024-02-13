@@ -29,8 +29,8 @@ const teamDetails = [{
     title : "Payment Integration",
     github : "https://github.com/RuchikaKadam/MCT-4-Payment-integration-",
     hostedLink : "https://ruchikakadam.github.io/MCT-4-Payment-integration-/index.html",
-    video : "",
-    linkedin : "",
+    video : "https://drive.google.com/drive/folders/1P9zy4zSZqBlNyJU99l5SbKIVFx4D2Hnh?usp=sharing",
+    linkedin : "https://www.linkedin.com/posts/ruchika-kadam-145369194_javascript-webdevelopment-paymentintegration-activity-7163229048498810881-9reN?utm_source=share&utm_medium=member_desktop",
     website_img : "https://cdn-icons-png.flaticon.com/128/1813/1813870.png",
     desc : "A payment integration is a software solution that enables businesses to accept payments from customers electronically, typically over the internet."
 },
